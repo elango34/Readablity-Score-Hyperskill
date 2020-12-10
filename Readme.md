@@ -2,7 +2,7 @@
 Developing a program that can identify the difficulty of a piece of text and identify the suitable reading age.  
 https://hyperskill.org/projects/39
 
-<img src="https://github.com/elango34/Readability-Score-Hyperskill/blob/master/ReadabilityScore.gif" width="800" height="500" />
+<img src="https://github.com/elango34/Readablity-Score-Hyperskill/blob/master/ReadabilityScore.gif" width="800" height="500" />
 
 A readability index is an estimation of how difficult a text is to read. 
 The estimation is made by measuring a text's complexity using redablity index formulas. There are many formulas out there to measure redablity score

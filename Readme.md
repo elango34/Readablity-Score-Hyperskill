@@ -5,7 +5,7 @@ https://hyperskill.org/projects/39
 <img src="https://github.com/elango34/Readablity-Score-Hyperskill/blob/master/ReadabilityScore.gif" width="800" height="500" />
 
 A readability index is an estimation of how difficult a text is to read. 
-The estimation is made by measuring a text's complexity using redablity index formulas. There are many formulas out there to measure redablity score
+The estimation is made by measuring a text's complexity using readablity index formulas. There are many formulas out there to measure readablity score
 and this score is compared with score-age table and we can easily tell what grade level that text can be understood.
 
 **The formulas that I used to measure readability index are :**
